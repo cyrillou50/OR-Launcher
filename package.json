@@ -1,7 +1,7 @@
 {
     "name": "outland-ruin",
     "preductname": "Outland Ruin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Serveur Minecraft MMORPG",
     "main": "src/app.js",
     "author": "cyrillou53, Riptiaz/Boulldogo/Vexato/Luuxis",
